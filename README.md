@@ -1,9 +1,9 @@
 # Survey Analytics
+<img src="https://user-images.githubusercontent.com/28645647/117288177-d529be00-ae88-11eb-8839-ee156d163be1.png">
+
 
 ## Objective: 
 Analyze conusmer psychographics & trends of various shampoo brands using survey data & techniques
-
-<img src="https://user-images.githubusercontent.com/28645647/117288177-d529be00-ae88-11eb-8839-ee156d163be1.png">
 
 <img src="https://blog.alexa.com/wp-content/uploads/2019/06/four-types-of-market-segmentation-600x600.jpg" width="350" height="350">
 
