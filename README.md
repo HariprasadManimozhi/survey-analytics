@@ -5,7 +5,7 @@
 ## Objective: 
 Analyze conusmer psychographics & trends of various shampoo brands using survey data & techniques
 
-<img src="https://blog.alexa.com/wp-content/uploads/2019/06/four-types-of-market-segmentation-600x600.jpg" width="350" height="350">
+<img src="https://user-images.githubusercontent.com/28645647/172805011-4fa2f67f-5a92-4a88-bea4-0c7d8a24c487.png">
 
 
 ## Tools:
