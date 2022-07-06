@@ -31,3 +31,7 @@ Python -
     * Cross analysis
 7. Derive Insights
     
+### Snapshots    
+<img width="700px" src="https://user-images.githubusercontent.com/28645647/177583600-f66e5d5b-6879-49af-aaf9-904a685607c9.jpeg">
+
+<img width="500px" src="https://user-images.githubusercontent.com/28645647/177583561-7a32f23f-f927-46d1-9a50-2cc356d9dda9.png">
